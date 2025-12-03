@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I’m **Mansi Tamta**
+### *📊 Data Analyst | Python Enthusiast | SQL Explorer | Problem Solver*
 
-<!--
-**DataByMansi/DataByMansi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I’m a computer science graduate turned **data enthusiast**. I love exploring datasets, uncovering insights, and turning numbers into **actionable stories**.  
+I enjoy building dashboards, creating visualizations, and learning new ways to analyze data efficiently.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently exploring: `Python` · `SQL` · `Tableau` · `Power BI`    
+
+---
+
+## 🛠️ Tech Stack & Tools
+**Languages & Libraries:**  
+`Python` · `SQL` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn`  
+
+**Data Tools:**  
+`Tableau` · `Power BI` · `Excel` · `Jupyter Notebook`  
+
+**Other Skills:**  
+`Data Cleaning` · `Data Visualization` · `EDA` · `Reporting`
+
+---
+
+## 🌐 Connect With Me
+- 💼 LinkedIn: **https://linkedin.com/in/mansi-tamta**  
+- 📧 Email: **mansi41997@gmail.com**  
+
