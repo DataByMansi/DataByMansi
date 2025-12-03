@@ -1,5 +1,5 @@
 # 👋 Hi, I’m **Mansi Tamta**
-### *📊 Data Analyst | Python Enthusiast | SQL Explorer | Problem Solver*
+### *📊 Data Enthusiast | Python & SQL Explorer | Problem Solver*
 
 ---
 
