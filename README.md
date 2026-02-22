@@ -24,34 +24,6 @@ Data Analyst with hands-on experience turning raw data into actionable insights.
 
 ---
 
-## 📂 Featured Projects
-
-### 🛒 [Superstore Sales Analysis](https://github.com/mansi41997/superstore-sales-analysis)
-End-to-end analysis of 4 years of US retail data to uncover profitability trends, regional performance, and the impact of discounting.
-- **Tools:** Python · PostgreSQL · Excel · Power BI
-- Identified that discounts above 40% consistently drive losses across all categories
-- Found Tables & Bookcases as top loss-making sub-categories
-- Built an interactive Power BI dashboard with KPI cards, trend charts, and a regional map
-
----
-
-### 🚢 [Titanic Survival EDA](https://github.com/mansi41997)
-In-depth exploratory analysis of 891 passenger records to uncover survival patterns.
-- **Tools:** Python · SQL · Excel · Power BI
-- Female passengers had 75% higher survival rate; first-class passengers 62% higher survival rate
-- Handled 177 missing age values and reduced data inconsistencies by 15%
-- Created 5+ visualizations, including heatmaps, bar plots, and distribution charts
-
----
-
-### 📉 [Customer Churn Analysis](https://github.com/mansi41997)
-Analyzed 1,000+ telecom customer records to identify key churn drivers.
-- **Tools:** Python · Pandas · NumPy · Power BI
-- Revealed month-to-month contracts had significantly higher churn rates
-- Highlighted contract type, tenure, and service usage as key churn factors
-
----
-
 ## 📜 Certifications
 
 - 🏅 Google Data Analytics Professional Certificate — Coursera, 2025
